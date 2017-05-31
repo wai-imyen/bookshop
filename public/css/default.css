@@ -1,0 +1,219 @@
+
+
+@media screen and(max-width:600px){
+	footer span{
+		font-size: 6px;
+	}
+	.logo img{
+		width: 60%;
+	}
+	#goToTop a{
+		font-size: 5px;
+		color: #000; 
+	}
+
+}
+
+
+/*	HOME	*/
+
+html,body{
+	margin: 0;
+	padding: 0;
+	border:0;
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif,微軟正黑體;
+	color:white;
+	background: #282b26;
+}
+
+.logo img {
+	display:block;
+	margin:0 auto;
+}
+
+#cart{
+			
+	margin-right: 15pt;
+		}
+
+#cart img{
+	width: 90%;
+		}
+
+#cart img:hover{
+			width: 110%;
+		}
+
+/*.auth li a{
+	font-size: 11pt;
+	color:white;
+	text-decoration:none; 	
+}
+
+.auth li a:hover{
+
+	font-size: 12pt;
+}*/
+
+.auth #login a,.auth #register a{
+
+	color: white;
+}
+
+#logo{
+
+	border-left: 15pt;
+}
+
+footer {
+	  bottom:0; /* 設置位置於下方 */
+	  height:40px;
+	  /*background-color:#689384;*/
+	  clear:both;
+}
+
+#goToTop {      
+	z-index: 2;
+	position: fixed;       
+	bottom: 20px;     
+	right: 2%;    
+}   
+#goToTop a {     
+	background: none repeat scroll 0 0 #689384;     
+	border: none;     
+	border-radius: 50%;     
+		-webkit-border-radius: 50%;  
+	box-shadow: 3px 3px 1px #000;   
+	color: #fff;     
+	font-size: 16px;     
+	padding: 13px 10px;     
+	text-decoration: none; 
+
+	}
+#goToTop:hover{
+/*	opacity: 0.8;*/
+	transform:scale(1.1);
+}
+
+
+/*	SHOP	*/
+
+
+.thumbnail h5{
+		font-family:  'Source Sans Pro',sans-serif,微軟正黑體;
+		font-size: 11pt;
+		font-weight: 600;
+		color:black;
+		}
+.thumbnail img{
+			width: 150px;
+			height:150px;
+		}
+img:hover{
+			/*width: 120%;
+			height:120%;*/
+			
+		}
+h2 {
+	color: white;
+	font-family:  'Source Sans Pro',sans-serif,微軟正黑體;
+}
+
+#submit{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+/*shop show*/
+#shop_show li{
+	font-size: 12pt;
+	font-family:  微軟正黑體;
+	line-height: 50px;
+	/*color: black;*/
+}
+	  #shop_show p{
+		font-size: 11pt;
+		font-family:  微軟正黑體;
+		line-height: 25px;
+		/*color: black;*/
+	}
+
+
+.panel-default ul,.panel-default img{
+
+	margin-top: 30px;
+}
+
+.panel{
+	margin-top: 20px;
+	background: none;
+
+}
+
+/*Merchandies*/
+
+#merchandiseAdminTable{
+
+	color: white;
+	font-family: 'Source Sans Pro',sans-serif,微軟正黑體;
+}
+
+
+#merchandiseAdminTable .btn{
+	font-family: 'Source Sans Pro',sans-serif,微軟正黑體;
+}
+
+}
+
+
+/*Board*/
+#msg_title {
+	
+	text-align: center;
+	font-size: 16px;
+	vertical-align:text-top;
+
+}
+	#msg_title label{
+		background: #405738;
+	}
+	.msg table{
+	margin: 10px 10px 10px 10px;
+	line-height: 30px;
+	font-size: 18px;
+
+}
+	#msg_content{
+		padding-left: 20px;
+		font-size: 16px;
+	}
+	.msg .panel{
+		
+	}
+.msg label,.edit label,.merchandise_create label{
+	margin-top: 15px;
+	font-size: 11pt;
+}
+
+/*ABOUT*/
+
+.about li{
+	font-size: 13pt;
+	line-height: 30pt;
+}
+.about .introduce{
+	font-size: 12pt;
+	margin: 20pt 0pt 20pt 0pt;
+
+}
+
+.about .photo{
+	margin-top:40px;
+}
+
+.about .information{
+	margin-top:30px;
+	margin-bottom: 40px;
+}
+
+
