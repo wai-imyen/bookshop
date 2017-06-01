@@ -1,4 +1,4 @@
-# Yen's Second-Hand Bookshop(未完成)
+# Yen's Second-Hand Bookshop ( 未完成 )
 
  網頁介紹：
 >我的二手書拍賣網站，提供顧客二手書的選購。
