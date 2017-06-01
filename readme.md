@@ -13,8 +13,6 @@
 圖片資源自：
 >http://www.flaticon.com/ ; https://unsplash.com/  
 
-版型套用自：
->http://codepen.io/anon/pen/PppyPJ
   
 <br>  
     
